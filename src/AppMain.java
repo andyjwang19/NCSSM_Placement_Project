@@ -162,7 +162,6 @@ public class AppMain extends Application {
         stage.show();
     }
     public static void main(String[] args) {
-        System.out.println(Integer.toHexString(10));
 
         launch(args);
     }
